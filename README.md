@@ -89,7 +89,7 @@
 
 ### Ekran Görüntüleri
 
-![Pet Sistemi Menüsü](screenshots/screenshot.png)
+![Pet Sistemi Menüsü](screenshots/screenshot.jpg)
 ![Pet Sistemi 1](screenshots/screenshot1.png)
 ![Pet Sistemi 2](screenshots/screenshot2.png)
 ![Pet Sistemi 3](screenshots/screenshot3.png)
