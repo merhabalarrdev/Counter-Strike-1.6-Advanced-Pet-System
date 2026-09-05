@@ -87,9 +87,12 @@
 4. `plugins.ini` dosyasına eklentiyi ekleyin.
 5. Sunucuyu yeniden başlatın veya eklentiyi reload edin.
 
-### Ekran Görüntüsü
+### Ekran Görüntüleri
 
 ![Pet Sistemi Menüsü](screenshots/screenshot.png)
+![Pet Sistemi 1](screenshots/screenshot1.png)
+![Pet Sistemi 2](screenshots/screenshot2.png)
+![Pet Sistemi 3](screenshots/screenshot3.png)
 
 ---
 
